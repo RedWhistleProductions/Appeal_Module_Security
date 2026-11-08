@@ -1,0 +1,16 @@
+{
+  "release": "1.0.22-RELEASE",
+  "verification": "Minisign Ed25519 signature; pinned upstream public key",
+  "assets": [
+    {
+      "name": "libsodium-1.0.22-mingw.tar.gz",
+      "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.22-RELEASE/libsodium-1.0.22-mingw.tar.gz",
+      "sha256": "1d99e0afaf27bce664249232e9dc628ae6bb7b49f0ab53ad6db372b028a35d9d"
+    },
+    {
+      "name": "libsodium-1.0.22.tar.gz",
+      "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.22-RELEASE/libsodium-1.0.22.tar.gz",
+      "sha256": "adbdd8f16149e81ac6078a03aca6fc03b592b89ef7b5ed83841c086191be3349"
+    }
+  ]
+}
